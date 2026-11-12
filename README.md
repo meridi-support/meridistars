@@ -18,6 +18,17 @@
   好きな日時の空を再現できます
 - 🌐 **日本語 / English**
 - 📦 **Single HTML file** — no install, no account
+  インストールも登録もいりません
+
+## 🌌 ↕ 🌊 Sky and Sea / 空と海
+MeridiStars looks **up**. Its sister tool [MeridiDepths](https://meridibrand.com/depths/) looks **down** — from the sea surface to the deepest ocean trenches.
+MeridiStars は空を見上げる道具です。対になる MeridiDepths は、海面から海溝の底まで潜っていきます。
+
+## Notes / ご注意
+- Star positions are calculated for viewing and learning, not for navigation or scientific use.
+  星の位置は、眺めて楽しむ・学ぶための計算です。航海や研究には使わないでください。
+- Found something wrong? Let us know in [Discussions](https://github.com/meridi-support/meridi-square/discussions).
+  おかしな所があれば、Discussions で教えてください。
 
 ## Privacy / プライバシー
 - No ads, no account, no cookies.
@@ -33,6 +44,8 @@ If you enjoy MeridiStars, you can support development here:
 ☕ **https://buymeacoffee.com/meridius**
 
 ## Other tools by Meridi Brand
+- 🌊 [MeridiDepths](https://meridibrand.com/depths/) — deep-sea explorer
+- 🎮 [MeridiPlay](https://meridibrand.com/play/) — browser games
 - 🗓 [MeridiMeet](https://meridibrand.com/meet/) — schedule polls
 - 🔤 [MeridiLingo](https://meridibrand.com/lingo/) — phrase book
 - ⌨️ [MeridiSync](https://meridistore.booth.pm/items/8790105) — text snippet expander
