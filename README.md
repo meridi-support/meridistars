@@ -20,9 +20,12 @@
 - 📦 **Single HTML file** — no install, no account
   インストールも登録もいりません
 
-## 🌌 ↕ 🌊 Sky and Sea / 空と海
-MeridiStars looks **up**. Its sister tool [MeridiDepths](https://meridibrand.com/depths/) looks **down** — from the sea surface to the deepest ocean trenches.
-MeridiStars は空を見上げる道具です。対になる MeridiDepths は、海面から海溝の底まで潜っていきます。
+## 🌌 ↕ 🪨 ↕ 🌊 Sky, Land and Sea / 空・陸・海
+MeridiStars looks **up**. Its sister tools take you the rest of the way:
+- 🪨 [MeridiGround](https://meridibrand.com/ground/) — from your doorstep up to the edge of space and down to Earth's core
+- 🌊 [MeridiDepths](https://meridibrand.com/depths/) — from the sea surface to the deepest ocean trenches
+
+MeridiStars は空を見上げる道具です。🪨 MeridiGround は足もとから地球の中心まで、🌊 MeridiDepths は海面から海溝の底まで、いっしょに旅ができます。
 
 ## Notes / ご注意
 - Star positions are calculated for viewing and learning, not for navigation or scientific use.
@@ -47,9 +50,9 @@ If you enjoy MeridiStars, you can support development here:
 - 📅 [MeridiMeet](https://meridibrand.com/meet/) — schedule polls across time zones
 - 🐾 [MeridiLingo](https://meridibrand.com/lingo/) — 760+ real-world English expressions & AI prompts
 - 💻 [MeridiSync](https://meridistore.booth.pm/items/8790105) — text snippet expander for Windows
-- 🌌 [MeridiStars](https://meridibrand.com/stars/) — planetarium
-- 🪨 MeridiGround — from the sky to Earth's core (coming soon)
+- 🪨 [MeridiGround](https://meridibrand.com/ground/) — from the sky to Earth's core
 - 🌊 [MeridiDepths](https://meridibrand.com/depths/) — deep-sea explorer
+- 🎮 [MeridiPlay](https://meridibrand.com/play/) — 18 free browser games
 - 🧮 [MeridiConvert](https://meridibrand.com/convert/) — unit converter & handy calculators
 - 🏠 [meridibrand.com](https://meridibrand.com/)
 
