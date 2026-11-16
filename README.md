@@ -54,6 +54,7 @@ If you enjoy MeridiStars, you can support development here:
 - 🌊 [MeridiDepths](https://meridibrand.com/depths/) — deep-sea explorer
 - 🎮 [MeridiPlay](https://meridibrand.com/play/) — 18 free browser games
 - 🧮 [MeridiConvert](https://meridibrand.com/convert/) — unit converter & handy calculators
+- | [meriditools](https://github.com/meridi-support/meriditools) | 🧰 Meridi Tools — Ad-free Toolbox |
 - 🏠 [meridibrand.com](https://meridibrand.com/)
 
 ## License
