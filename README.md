@@ -85,7 +85,7 @@ If you enjoy MeridiStars, you can support development here:
 - 🌊 [MeridiDepths](https://meridibrand.com/depths/) — deep-sea explorer
 - 🎮 [MeridiPlay](https://meridibrand.com/play/) — 18 free browser games
 - 🧮 [MeridiConvert](https://meridibrand.com/convert/) — unit converter & handy calculators
-- 🧰 [Meridi Tools](https://meridibrand.com/tools/) — ad-free toolbox: timer, text cleaner, dice, QR codes, photo location remover
+- 🧰 [Meridi Tools](https://meridibrand.com/tools/) — ad-free toolbox: timer & scoreboard, text cleaner, TRPG dice, QR codes, photo location remover, bill splitter, timecard & wage calculator
 - 🏠 [meridibrand.com](https://meridibrand.com/)
 
 
