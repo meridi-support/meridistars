@@ -54,6 +54,9 @@ MeridiStars は空を見上げる道具です。🪨 MeridiGround は足もと�
   GoatCounter によるページビューの数（匿名）だけを計測しています。
 
 ## Changelog
+### v1.2.0 — 2026-11-25
+- 💥 **From the Big Bang to today**: 13.8 billion years in 7 scenes — quark soup, first nuclei, the sky clearing (CMB), first stars, a monster black hole with real gravitational lensing, and the cosmic web down to our Milky Way.
+- ℹ️ Details for each scene (EN/JA), scene buttons, Lite mode for phones.
 ### v1.1.0 — 2026-11-24
 - 🌫 Deep Sky: 150 galaxies, nebulae and clusters (Messier + 41 famous targets, OpenNGC), 📷 photo / 👁 naked-eye views, tap for details, search by name / M / NGC
   星雲・銀河・星団 150 個。写真／肉眼の見え方、押すと説明、名前・M・NGC 番号で検索
